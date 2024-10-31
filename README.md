@@ -71,7 +71,7 @@ The **Railway Reservation System** is a user-friendly website that allows passen
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python (with Database Connectivity)
 - **Database**: MySQL or any other relational database
-- **Frameworks**: Flask or Django (optional)
+- **Frameworks**: Django
 
 ---
 ##  **Screenshots**
